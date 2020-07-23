@@ -12,6 +12,8 @@ Olá, tudo bem? Meu nome é Vilson Sampaio, tenho 18 anos e sou de Camaçari-BA,
 
 Acredito que conhecimento e determinação são essenciais para qualquer transformação de vida.
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vilsonsampaio&show_icons=true)
+
 - 📘 Cursando Técnico em Informática - IFBA.
 - 🎓 Aluno da Origamid, com conclusão dos cursos de JavaScript Completo ES6+ e Web Design Completo.
 - 🌱 Estudando React e React Native.
