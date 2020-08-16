@@ -17,7 +17,6 @@ Acredito que conhecimento e determinação são essenciais para qualquer transfo
 - 📘 Cursando Técnico em Informática - IFBA.
 - 🎓 Aluno da Origamid, com conclusão dos cursos de JavaScript Completo ES6+ e Web Design Completo.
 - 🌱 Estudando React e React Native.
-<br>
 
 ## Linguagens e tecnologias utilizadas atualmente
 
