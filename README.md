@@ -50,6 +50,8 @@ Acredito que conhecimento e determinação são essenciais para qualquer transfo
 [![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-444444?style=flat-square&logo=adobe-xd&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-444444?style=flat-square&logo=dribbble&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![Behance](https://img.shields.io/badge/-Behance-0069FF?style=flat-square&logo=behance&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-001E36?style=flat-square&logo=adobe-photoshop&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+
 
 **Outras Tecnologias**
 [![Nodejs](https://img.shields.io/badge/-Node.js-2D2C2C?style=flat-square&logo=node.js&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
