@@ -57,6 +57,8 @@ Acredito que conhecimento e determinação são essenciais para qualquer transfo
 [![Nodejs](https://img.shields.io/badge/-Node.js-2D2C2C?style=flat-square&logo=node.js&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=react-router&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![Express](https://img.shields.io/badge/-Express-2D2C2C?style=flat-square&logo=express&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![Knex](https://img.shields.io/badge/-Knex-e16426?style=flat-square&logo=knex.js&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 
 **Bancos de Dados**
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
