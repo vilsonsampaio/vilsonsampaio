@@ -38,6 +38,7 @@ Acredito que conhecimento e determinação são essenciais para qualquer transfo
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![Java](https://img.shields.io/badge/-Java-3571AF?style=flat-square&logo=Java&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![C#](https://img.shields.io/badge/-C%20Sharp-6E3B7C?style=flat-square&logo=c-sharp&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![PHP](https://img.shields.io/badge/-PHP-222430?style=flat-square&logo=php&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 
 **Front-end / Mobile**
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
@@ -60,6 +61,8 @@ Acredito que conhecimento e determinação são essenciais para qualquer transfo
 [![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=react-router&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![Express](https://img.shields.io/badge/-Express-2D2C2C?style=flat-square&logo=express&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![Knex](https://img.shields.io/badge/-Knex-e16426?style=flat-square&logo=knex.js&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![TypeORM](https://img.shields.io/badge/-TypeORM-EA3524?style=flat-square&logo=typeorm&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![Yup](https://img.shields.io/badge/-Yup-000?style=flat-square&logo=yup&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 
 **Bancos de Dados**
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
