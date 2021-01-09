@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:contato.vilsonsampaio@gmail.com" target="_blank">
+<a href="mailto:vilson.sampaio04@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.vilsonsampaio@gmail.com" alt="Gmail">
 </a>
 
