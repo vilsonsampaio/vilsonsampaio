@@ -17,7 +17,7 @@ Acredito que conhecimento e determinação são essenciais para qualquer transfo
 
 - 📘 Cursando Técnico em Informática - IFBA.
 - 🎓 Aluno da [Origamid](https://www.origamid.com/), com conclusão dos cursos de [React Completo](https://www.origamid.com/certificate/9f122bcd/), [JavaScript Completo ES6+](https://www.origamid.com/certificate/cb0b88b5/) e [Web Design Completo](https://www.origamid.com/certificate/ebe04f2f/).
-- 🌱 Estudando React e React Native.
+- 🌱 Praticando React e estudando o NextJS.
 
 ## Linguagens e tecnologias utilizadas atualmente
 
@@ -35,15 +35,15 @@ Acredito que conhecimento e determinação são essenciais para qualquer transfo
 
 **Linguagens**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![Java](https://img.shields.io/badge/-Java-3571AF?style=flat-square&logo=Java&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
-[![C#](https://img.shields.io/badge/-C%20Sharp-6E3B7C?style=flat-square&logo=c-sharp&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![PHP](https://img.shields.io/badge/-PHP-222430?style=flat-square&logo=php&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 
 **Front-end / Mobile**
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/vilsonsampaio/)
 [![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)](https://github.com/vilsonsampaio/)
 
