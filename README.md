@@ -5,7 +5,7 @@
 </a>
 
 <a href="mailto:vilson.sampaio04@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=E-mail&logoColor=white&link=mailto:contato.vilsonsampaio@gmail.com" alt="E-mail">
+<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.vilsonsampaio@gmail.com" alt="E-mail">
 </a>
 
 Olá, tudo bem? Meu nome é Vilson Sampaio, tenho 18 anos e sou de Camaçari-BA, região metropolitana de Salvador. Em março de 2020 aproveitei esse momento delicado de quarentena que estamos vivendo para embarcar de cabeça no mundo da programação e, desde então, me empolgo cada vez mais com esse universo amplo e repleto de oportunidades. 
