@@ -8,9 +8,9 @@
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.vilsonsampaio@gmail.com" alt="E-mail">
 </a>
 
-Olá, tudo bem? Meu nome é Vilson Sampaio, tenho 18 anos e sou de Camaçari-BA, região metropolitana de Salvador. Em março de 2020 aproveitei esse momento delicado de quarentena que estamos vivendo para embarcar de cabeça no mundo da programação e, desde então, me empolgo cada vez mais com esse universo amplo e repleto de oportunidades. 
+Olá, tudo bem? Meu nome é Vilson Sampaio, tenho 18 anos e sou de Camaçari-BA, região metropolitana de Salvador. Em março de 2020 aproveitei esse momento delicado de pandemia que estamos vivenciando para embarcar de cabeça no mundo da programação e, desde então, me apaixono cada vez mais por esse universo amplo, repleto de oportunidades e gerador de transformações. 
 
-Acredito que conhecimento e determinação são essenciais para qualquer transformação de vida.
+Acredito que conhecimento e determinação são pilares essenciais para qualquer transformação de vida, onde a busca por novos conhecimentos deve ser constante. Aqui você pode encontrar alguns dos meus projetos de estudo desenvolvidos durante esse tempo. Espero que goste! :) 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vilsonsampaio&show_icons=true)
 ![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonsampaio&layout=compact)
@@ -43,7 +43,7 @@ Acredito que conhecimento e determinação são essenciais para qualquer transfo
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
-[![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/vilsonsampaio/)
 [![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)](https://github.com/vilsonsampaio/)
 
