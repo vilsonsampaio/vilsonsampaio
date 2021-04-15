@@ -86,4 +86,5 @@ Acredito que conhecimento e determinação são pilares essenciais para qualquer
 
 **Versionamento**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 
