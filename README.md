@@ -45,6 +45,7 @@ Acredito que conhecimento e determinação são pilares essenciais para qualquer
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/vilsonsampaio/)
+[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)](https://github.com/vilsonsampaio/)
 [![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)](https://github.com/vilsonsampaio/)
 
 **Design**
@@ -71,6 +72,10 @@ Acredito que conhecimento e determinação são pilares essenciais para qualquer
 
 **CMS**
 [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+
+**Deploy**
+[![Netlify](https://img.shields.io/badge/-Netlify-DBDBE0?style=flat-square&logo=netlify)](https://github.com/vilsonsampaio/)
+[![Heroku](https://img.shields.io/badge/-Heroku-9994CD?style=flat-square&logo=heroku)](https://github.com/vilsonsampaio/)
 
 **Sistemas Operacionais**
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
