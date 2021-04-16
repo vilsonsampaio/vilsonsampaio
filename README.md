@@ -75,6 +75,7 @@ Acredito que conhecimento e determinação são pilares essenciais para qualquer
 
 **Deploy**
 [![Netlify](https://img.shields.io/badge/-Netlify-DBDBE0?style=flat-square&logo=netlify)](https://github.com/vilsonsampaio/)
+[![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)](https://github.com/vilsonsampaio/)
 [![Heroku](https://img.shields.io/badge/-Heroku-9994CD?style=flat-square&logo=heroku)](https://github.com/vilsonsampaio/)
 
 **Sistemas Operacionais**
