@@ -1,4 +1,4 @@
-### Olá! 👋
+### Boas vindas! 👋
 
 <a href="https://www.linkedin.com/in/vilsonsampaio/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
@@ -8,9 +8,9 @@
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.vilsonsampaio@gmail.com" alt="E-mail">
 </a>
 
-Olá, tudo bem? Meu nome é Vilson Sampaio, tenho 18 anos e sou de Camaçari-BA, região metropolitana de Salvador. Em março de 2020 aproveitei esse momento delicado de pandemia que estamos vivenciando para embarcar de cabeça no mundo da programação e, desde então, me apaixono cada vez mais por esse universo amplo, repleto de oportunidades e capacitador de transformações. 
+Olá, tudo bem? Me chamo Vilson, tenho 19 anos e sou de Camaçari-BA, região metropolitana de Salvador. Em março de 2020 aproveitei esse momento delicado de pandemia que estamos vivenciando para embarcar de cabeça no mundo da programação e, desde então, me apaixono cada vez mais por esse universo amplo, repleto de oportunidades e capacitador de mudanças. 
 
-Acredito que conhecimento e determinação são pilares essenciais para qualquer transformação de vida, onde a busca por novos conhecimentos deve ser constante. Aqui você pode encontrar alguns dos meus projetos de estudo desenvolvidos durante esse tempo. Espero que goste! :) 
+Acredito firmemente na tecnologia enquanto ferramenta facilitadora de transformações sociais. Sou bastante curioso e adoro estar por dentro dos processos que envolvem a construção do produto de uma empresa, indo atrás também de conhecimentos que vão além de minha área de atuação. Aqui você pode encontrar alguns dos meus projetos de estudo desenvolvidos durante essa jornada. Espero que goste! :) 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vilsonsampaio&show_icons=true)
 ![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonsampaio&layout=compact)
@@ -80,7 +80,7 @@ Acredito que conhecimento e determinação são pilares essenciais para qualquer
 
 **Sistemas Operacionais**
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
-[![Kubuntu](https://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=Kubuntu&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![Linux (Kubuntu)](https://img.shields.io/badge/-Linux%20(Kubuntu)-0078D6?style=flat-square&logo=Kubuntu&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 
 **IDE**
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-006CAE?style=flat-square&logo=visual-studio-code&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
