@@ -8,9 +8,12 @@
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.vilsonsampaio@gmail.com" alt="E-mail">
 </a>
 
-Olá, tudo bem? Me chamo Vilson, tenho 19 anos e sou de Camaçari-BA, região metropolitana de Salvador. Em março de 2020, aproveitei esse momento delicado de pandemia que estamos vivenciando para embarcar de cabeça no mundo da programação. Desde então, me apaixono cada vez mais por essa área ampla, repleta de oportunidades e capacitadora de mudanças. 
+Olá, tudo bem? Me chamo Vilson, tenho 19 anos e sou de Camaçari-BA, região metropolitana de Salvador. Em março de 2020, aproveitei o momento delicado de pandemia que estamos vivenciando para embarcar de cabeça no mundo da programação, e desde então, me apaixono cada vez mais por essa área ampla, repleta de oportunidades e capacitadora de revoluções. 
 
-Acredito firmemente na tecnologia enquanto ferramenta facilitadora de transformação da realidade. Sou bastante curioso e adoro estar por dentro dos processos que envolvem o produto de uma empresa, buscando também por conhecimentos que ultrapassem minha área de atuação. Aqui você pode encontrar alguns dos meus projetos de estudo desenvolvidos durante essa jornada. Espero que goste! :) 
+Acredito fortemente na tecnologia enquanto ferramenta de transformação da realidade, e é através dela que eu encontrei uma forma de ajudar as pessoas com o meu trabalho. Além disso, sou um programador bastante curioso, com um desejo constante de entender os porquês das coisas, e fico encantado quando percebo a responsabildade que nos foi dada de construir o futuro do nosso jeito - cada vez mais descomplicado e ético. Além disso, adoro estar por dentro dos processos que envolvem um produto, buscando também por conhecimentos que ultrapassem minha área de atuação. 
+
+Aqui você pode encontrar alguns dos meus projetos de estudo desenvolvidos durante essa jornada, além das tecnologias que tenho experiência.
+Espero que goste! :) 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vilsonsampaio&show_icons=true)
 ![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonsampaio&layout=compact)
