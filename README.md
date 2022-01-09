@@ -8,9 +8,9 @@
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.vilsonsampaio@gmail.com" alt="E-mail">
 </a>
 
-Olá, tudo bem? Me chamo Vilson, tenho 19 anos e sou de Camaçari-BA, região metropolitana de Salvador. Em março de 2020, aproveitei o momento delicado de pandemia que estamos vivenciando para embarcar de cabeça no mundo da programação, e desde então, me apaixono cada vez mais por essa área ampla, repleta de oportunidades e capacitadora de revoluções. 
+Olá, tudo bem? Me chamo Vilson, tenho 19 anos e sou de Camaçari-BA, região metropolitana de Salvador. Em março de 2020, aproveitei o momento delicado de pandemia para embarcar de cabeça no mundo da programação, e desde então, me apaixono cada vez mais por essa área ampla e repleta de oportunidades. 
 
-Acredito fortemente na tecnologia enquanto ferramenta de transformação da realidade, e é através dela onde acredito estar o meio viabilizador para o meu propósito – auxiliar na construção de produtos incríveis que tangenciem as dores das pessoas. Além disso, sou um programador bastante curioso, com um desejo constante de entender os porquês das coisas, e fico encantado quando percebo a responsabildade que nos foi dada de construir o futuro do nosso jeito - cada vez mais descomplicado e ético. Além disso, adoro estar por dentro dos processos que envolvem um produto, buscando também por conhecimentos que ultrapassem minha área de atuação. 
+Acredito fortemente na tecnologia enquanto ferramenta de transformação da realidade, e foi nela onde encontrei um meio para alcançar meu propósito – ajudar na construção de produtos incríveis que tangenciem as dores das pessoas de forma genuína. Além disso, sou um programador bastante curioso, com um desejo constante de entender os porquês das coisas, e fico encantado quando percebo a responsabildade que nos foi dada de construir o futuro da forma que desejamos - cada vez mais ético e inclusivo, e menos complicado. Além disso, adoro estar por dentro de processos no geral, buscando também por conhecimentos que ultrapassem minha área de atuação. 
 
 Aqui você pode encontrar alguns dos meus projetos de estudo desenvolvidos durante essa jornada, além das tecnologias que tenho experiência.
 Espero que goste! :) 
