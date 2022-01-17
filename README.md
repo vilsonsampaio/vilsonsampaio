@@ -18,8 +18,8 @@ Espero que goste! :)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vilsonsampaio&show_icons=true)
 ![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonsampaio&layout=compact)
 
-- 📘 Técnico em Informática - IFBA.
-- 🎓 Aluno da [Origamid](https://www.origamid.com/), com conclusão dos cursos de [React Completo](https://www.origamid.com/certificate/9f122bcd/), [JavaScript Completo ES6+](https://www.origamid.com/certificate/cb0b88b5/) e [Web Design Completo](https://www.origamid.com/certificate/ebe04f2f/).
+- 📘 Técnico em Informática pelo IFBA.
+- 🎓 Bacharelando em Engenharia de Software na UCSAL.
 - 🌱 Praticando React e estudando o NextJS.
 
 ## Linguagens e tecnologias utilizadas atualmente
