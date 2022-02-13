@@ -10,17 +10,18 @@
 
 Olá, tudo bem? Me chamo Vilson, tenho 19 anos e sou de Camaçari-BA, região metropolitana de Salvador. Em março de 2020, aproveitei o momento delicado de pandemia para embarcar de cabeça no mundo da programação, e desde então, me apaixono cada vez mais por essa área ampla e repleta de oportunidades. 
 
-Acredito fortemente na tecnologia enquanto ferramenta de transformação da realidade, e foi nela onde encontrei um meio para alcançar meu propósito de ajudar na construção de produtos incríveis, que tangenciem as dores das pessoas de forma genuína. Além disso, sou um programador bastante curioso, com um desejo constante de entender os porquês das coisas, e fico encantado quando percebo a responsabildade que nos foi dada de construir o futuro da forma que desejamos - cada vez mais ético e inclusivo, e menos complicado. Além disso, adoro estar por dentro de processos no geral, buscando também por conhecimentos que ultrapassem minha área de atuação. 
+Acredito fortemente na tecnologia enquanto ferramenta de transformação da realidade, e foi nela onde encontrei um meio para alcançar meu propósito de ajudar as pessoas através da construção de produtos incríveis que tangenciem suas dores de forma genuína. Além disso, sou um programador bastante curioso, com um desejo constante de entender os porquês das coisas, e fico encantado quando percebo a responsabildade que nos foi dada de construir o futuro da forma que desejamos - cada vez mais ético e inclusivo, e menos complicado. Além disso, adoro estar por dentro de processos no geral, buscando também por conhecimentos que ultrapassem minha área de atuação. 
 
 Aqui você pode encontrar alguns dos meus projetos de estudo desenvolvidos durante essa jornada, além das tecnologias que tenho experiência.
 Espero que goste! :) 
 
+- 📘 Técnico em Informática pelo Instituto Federal da Bahia (IFBA).
+- 🎓 Bacharelando em Engenharia de Software na UCSAL.
+- 🌱 Praticando React e estudando seu ecossitema.
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vilsonsampaio&show_icons=true)
 ![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonsampaio&layout=compact)
 
-- 📘 Técnico em Informática pelo IFBA.
-- 🎓 Bacharelando em Engenharia de Software na UCSAL.
-- 🌱 Praticando React e estudando o NextJS.
 
 ## Linguagens e tecnologias utilizadas atualmente
 
