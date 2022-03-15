@@ -15,12 +15,12 @@ Acredito fortemente na tecnologia enquanto ferramenta de transformação da real
 Aqui você pode encontrar alguns dos meus projetos de estudo desenvolvidos durante essa jornada, além das tecnologias que tenho experiência.
 Espero que goste! :) 
 
-- 📘 Técnico em Informática pelo Instituto Federal da Bahia (IFBA).
-- 🎓 Bacharelando em Bacharelando em Ciência e Tecnologia na UFBA.
-- 🌱 Praticando React e estudando seu ecossitema.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vilsonsampaio&show_icons=true&theme=github_dark)
-![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonsampaio&layout=compact&theme=github_dark)
+## Sobre mim
+
+- 👨‍💻 Desenvolvedor Front-end na [Agenda Consulta](https://www.agendaconsulta.com/).
+- 🎓 Bacharelando em Ciência e Tecnologia na UFBA.
+- 📚 Estudando React e seu ecossitema.
 
 
 ## Linguagens e tecnologias utilizadas atualmente
@@ -95,7 +95,8 @@ Espero que goste! :)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 
 
-<p> 
-  Contador de visitas<br>
-  <img src="https://profile-counter.glitch.me/vilsonsampaio/count.svg" />
-</p>
+## Estatísticas
+
+![Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=vilsonsampaio&show_icons=true&theme=github_dark)
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonsampaio&layout=compact&theme=github_dark)<br />
+![Contador de Visitas](https://komarev.com/ghpvc/?username=vilsonsampaio&style=flat-square&label=Contador%20de%20Visitas)
