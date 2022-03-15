@@ -16,7 +16,7 @@ Aqui você pode encontrar alguns dos meus projetos de estudo desenvolvidos duran
 Espero que goste! :) 
 
 - 📘 Técnico em Informática pelo Instituto Federal da Bahia (IFBA).
-- 🎓 Bacharelando em Engenharia de Software na UCSAL.
+- 🎓 Bacharelando em Bacharelando em Ciência e Tecnologia na UFBA.
 - 🌱 Praticando React e estudando seu ecossitema.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vilsonsampaio&show_icons=true&theme=github_dark)
