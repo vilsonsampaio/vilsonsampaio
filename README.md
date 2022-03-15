@@ -19,8 +19,8 @@ Espero que goste! :)
 - 🎓 Bacharelando em Engenharia de Software na UCSAL.
 - 🌱 Praticando React e estudando seu ecossitema.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vilsonsampaio&show_icons=true)
-![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonsampaio&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vilsonsampaio&show_icons=true&theme=github_dark)
+![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonsampaio&layout=compact&theme=github_dark)
 
 
 ## Linguagens e tecnologias utilizadas atualmente
