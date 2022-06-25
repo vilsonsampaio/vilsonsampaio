@@ -50,6 +50,7 @@ Espero que goste! :)
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/vilsonsampaio/)
 [![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)](https://github.com/vilsonsampaio/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)](https://github.com/vilsonsampaio/)
 
 **Design**
@@ -61,10 +62,14 @@ Espero que goste! :)
 
 
 **Outras Tecnologias**
-[![Nodejs](https://img.shields.io/badge/-Node.js-2D2C2C?style=flat-square&logo=node.js&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
-[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=react-router&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![Babel](https://img.shields.io/badge/-Babel-323330?style=flat-square&logo=Babel&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?style=flat-square&logo=Webpack&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![Nodejs](https://img.shields.io/badge/-Node.js-2D2C2C?style=flat-square&logo=node.js&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E00097?style=flat-square&logo=GraphQL&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![Apollo GraphQL (Client)](https://img.shields.io/badge/-Apollo%20GraphQL%20(Client)-311C87?style=flat-square&logo=Apollo%20GraphQL&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![Express](https://img.shields.io/badge/-Express-2D2C2C?style=flat-square&logo=express&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![Knex](https://img.shields.io/badge/-Knex-e16426?style=flat-square&logo=knex.js&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
 [![TypeORM](https://img.shields.io/badge/-TypeORM-EA3524?style=flat-square&logo=typeorm&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
@@ -77,6 +82,8 @@ Espero que goste! :)
 
 **CMS**
 [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+[![GraphCMS](https://img.shields.io/badge/-GraphCMS-090E24?style=flat-square&logo=GraphCMS&link=https://github.com/vilsonsampaio/)](https://github.com/vilsonsampaio/)
+
 
 **Deploy**
 [![Netlify](https://img.shields.io/badge/-Netlify-DBDBE0?style=flat-square&logo=netlify)](https://github.com/vilsonsampaio/)
